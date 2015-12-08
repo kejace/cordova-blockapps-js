@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm -rf .tmp
+mkdir .tmp
+browserify index.js > .tmp/bundle.js
+uglifyjs .tmp/bundle.js -c -m > .tmp/bundle.min.js
+cat > www/bajs.js << EOL
+
+`cat .tmp/bundle.min.js`
+
+EOL

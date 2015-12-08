@@ -1,0 +1,25 @@
+{
+  "name": "cordova-blockapps-js",
+  "version": "0.0.1",
+  "description": "cordova-blockapps-js polyfill for Cordova/PhoneGap",
+  "main": "www/blockapps-js.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "blockapps-js": "^1.1.8"
+  },
+  "scripts": {
+    "build": "./build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kejace/cordova-blockapps-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kejace/cordova-blockapps-js/issues"
+  },
+  "homepage": "https://github.com/kejacea/cordova-blockapps-js/#readme",
+  "ecosystem": "cordova"
+}
