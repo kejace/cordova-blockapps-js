@@ -16,7 +16,7 @@
     <engine name="cordova" version=">=3.0.0" />
   </engines>
 
-  <js-module src="www/promise.js" name="Promise">
+  <js-module src="www/bajs.js" name="bajs">
     <runs />
   </js-module>
 

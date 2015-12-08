@@ -2,7 +2,7 @@
   "name": "cordova-blockapps-js",
   "version": "0.0.1",
   "description": "cordova-blockapps-js polyfill for Cordova/PhoneGap",
-  "main": "www/blockapps-js.js",
+  "main": "www/bajs.js",
   "dependencies": {
   },
   "devDependencies": {
