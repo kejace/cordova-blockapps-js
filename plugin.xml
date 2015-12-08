@@ -1,15 +1,15 @@
 <plugin
   xmlns="http://www.phonegap.com/ns/plugins/1.0"
-  id="es6-promise-plugin"
+  id="cordova-blockapps-js"
   version="3.0.2">
 
-  <name>Promise</name>
-  <author>Vlad Stirbu</author>
+  <name>bajs</name>
+  <author>Kristoffer Josefsson</author>
   <license>MIT</license>
-  <keywords>es6-promise,polyfill</keywords>
+  <keywords>blockapps-js,polyfill, ethereum, bloc</keywords>
 
   <description>
-    A polyfill for ES6-style Promises, tracking npm es6-promise
+    A polyfill for blockapps-js, tracking npm blockapps-js
   </description>
 
   <engines>
